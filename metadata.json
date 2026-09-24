@@ -1,0 +1,6 @@
+{
+  "name": "Pac-Man Arcade Classic",
+  "description": "A retro-style single-file Pac-Man arcade maze game featuring 4 AI ghosts, power pellets, smooth animations, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
